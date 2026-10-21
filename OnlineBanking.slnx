@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/backend/">
+    <Project Path="backend/OnlineBanking.Api.Tests/OnlineBanking.Api.Tests.csproj" />
+    <Project Path="backend/OnlineBanking.Api/OnlineBanking.Api.csproj" />
+  </Folder>
+</Solution>
